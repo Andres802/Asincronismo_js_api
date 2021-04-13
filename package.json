@@ -1,0 +1,25 @@
+{
+  "name": "exit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challange": "node src/callback/challange.js",
+    "promise": " node src/promise/index.js",
+    "promise2": " node src/promise/index2.js",
+    "promise:challange": " node src/promise/challange.js",
+    "async": "node src/async/index.js",
+    "async:challange": "node src/async/challange.js"
+  },
+  "author": "Andres",
+  "license": "MIT",
+  "description": "asincronismo",
+  "keywords": [
+    "callbacks",
+    "promesas",
+    "async"
+  ],
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
