@@ -1,7 +1,7 @@
 # Asynchronism, Callbacks, Promises in JavaScript
-_A stack of code implementing and covering most important javascript functionality
+_A stack of code implementing and covering most important javascript functionality_
 
-_For more information check this page [here]()_
+_For more information check this page [here](https://rickandmortyapi.com/)_
 ```
 https://rickandmortyapi.com/about
 ```
